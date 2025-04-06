@@ -11,7 +11,7 @@ Restaurante e Panineira Homepage
 - [Contributing](#contributing)
 - [License](#license)
 
-![image](https://github.com/user-attachments/assets/4ec0cddd-9b80-4220-86e5-9e365b2aacc2)
+
 
 
 
@@ -58,7 +58,7 @@ text
 ## Usage
 1. Navigate through the homepage to explore the restaurant's menu and services.
 2. Use the reservation form to book a table at your preferred time.
-![image](https://github.com/user-attachments/assets/8cf74236-7161-460b-b993-9fa0745463cd)
+![image](https://github.com/user-attachments/assets/4ec0cddd-9b80-4220-86e5-9e365b2aacc2)
 
 ---
 
