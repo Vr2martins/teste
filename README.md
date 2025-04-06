@@ -11,36 +11,30 @@ Restaurante e Panineira Homepage
 - [Contributing](#contributing)
 - [License](#license)
 
-
-
-
-
 ---
 
 ## Project Description
-The **Restaurante e Panineira** project is a front-end web application designed to showcase a restaurant's menu, ambiance, and services. The platform provides an intuitive and visually appealing interface for users to explore the restaurant's offerings and make reservations.
-
+O projeto **Restaurante e Panineira** é uma aplicação web de front-end projetada para exibir o menu, o ambiente e os serviços de um restaurante. A plataforma oferece uma interface intuitiva e visualmente atraente para que os usuários explorem as opções do restaurante e façam reservas.
 ---
 
 ## Features
-- **Responsive Design:** Optimized for desktop and mobile devices.
-- **Interactive Navigation:** Easy-to-use menu and navigation system.
-- **Reservation System:** Users can book tables directly through the platform.
-- **Visual Appeal:** High-quality images and modern design elements.
+- **Design Responsivo:** Otimizado para dispositivos desktop e móveis.  
+- **Navegação Interativa:** Sistema de menu e navegação fácil de usar.  
+- **Sistema de Reservas:** Usuários podem reservar mesas diretamente pela plataforma.  
+- **Apego Visual:** Imagens de alta qualidade e elementos de design modernos.
 
 ---
 
 ## Tech Stack
-The project was built using:
-- **HTML5**: For structuring content.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For interactivity.
-- **Bootstrap**: For responsive design.
-
+O projeto foi construído utilizando:
+- **HTML5**: Para estruturar o conteúdo.
+- **CSS3**: Para estilização e layout.
+- **JavaScript**: Para interatividade.
+- **Bootstrap**: Para design responsivo.
 ---
 
 ## Installation
-To run this project locally:
+Para rodar este projeto localmente:
 
 1. Clone the repository:
 git clone https://github.com/your-username/restaurante-e-panineira.git
@@ -48,38 +42,34 @@ cd restaurante-e-panineira
 
 text
 
-2. Open the `index.html` file in your browser:
-open index.html
+2. Abra o arquivo `index.html` no seu navegador:  
+**abra o arquivo index.html**
 
 text
 
 ---
 
 ## Usage
-1. Navigate through the homepage to explore the restaurant's menu and services.
-2. Use the reservation form to book a table at your preferred time.
+1. Navegue pela página inicial para explorar o menu e os serviços do restaurante.  
+2. Use o formulário de reserva para agendar uma mesa no horário desejado.
 ![image](https://github.com/user-attachments/assets/4ec0cddd-9b80-4220-86e5-9e365b2aacc2)
 
 ---
 
 ## Contributing
 We welcome contributions! To contribute:
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix:
-git checkout -b feature-name
+1. Faça um fork deste repositório.
+2. Crie uma nova branch para a sua funcionalidade ou correção de bug:
 
 text
-3. Commit your changes and push to your forked repository:
-git commit -m "Add feature description"
-git push origin feature-name
-
+3.0 Comite suas alterações e envie para o seu repositório forkado:
 text
-4. Submit a pull request.
+4.4. Envie um pull request.
 
 ---
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
