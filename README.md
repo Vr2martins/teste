@@ -11,6 +11,10 @@ Restaurante e Panineira Homepage
 - [Contributing](#contributing)
 - [License](#license)
 
+![image](https://github.com/user-attachments/assets/4ec0cddd-9b80-4220-86e5-9e365b2aacc2)
+
+
+
 ---
 
 ## Project Description
